@@ -1,0 +1,1 @@
+<div class="well well-sm text-center"><h4>Sistem Informasi Pengawas Pemilu Provinsi <?php echo $d_provinsi['nama']; ?></h4> Menyajikan Informasi Foto Dan Nama pengawas Pemilu Di Daerah Masing-masing</div>
